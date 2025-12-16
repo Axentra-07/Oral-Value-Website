@@ -199,7 +199,7 @@ export const Home: React.FC<HomeProps> = ({ onNavigate }) => {
                <div className="rounded-2xl overflow-hidden mb-6 relative">
                  <div className="absolute inset-0 bg-neutral/0 group-hover:bg-neutral/10 transition-colors z-10"></div>
                  <img 
-                    src="components\Public\Images\Photo-for-general-dentist-article.webp" 
+                    src="/Images/Photo-for-general-dentist-article.webp" 
                     alt="General Dentistry" 
                     className="w-full aspect-[4/3] object-cover group-hover:scale-105 transition-transform duration-700" 
                  />
