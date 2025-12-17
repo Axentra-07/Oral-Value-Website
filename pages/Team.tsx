@@ -12,14 +12,14 @@ const doctors = [
     role: "Orthodontist",
     degree: "MDS - Orthodontics",
     bio: "Specialist in braces and clear aligners with over a decade of clinical experience. Dr. Ajinkya is committed to delivering efficient, comfortable treatment plans tailored to each patient's lifestyle. He regularly attends international conferences to stay updated with the latest in orthodontic technology.",
-    image: "components/Public/Images/dental-associate-job-1170x780.jpg"
+    image: "/images/doctor1.jpg"
   },
   {
     name: "Dr. Sneha Patil",
     role: "Pediatric Dentist",
     degree: "MDS - Pedodontics",
     bio: "Dedicated to children's dental health, focusing on preventive care and anxiety-free treatments. Dr. Sneha believes in building a positive dental attitude in children from a young age. Her gentle approach helps even the most anxious children feel at home.",
-    image: "components/Public/Images/general-dentist-N2012.jpg"
+    image: "/images/doctor2.jpg"
   }
 ];
 

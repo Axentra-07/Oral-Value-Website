@@ -25,7 +25,7 @@ const articles: Article[] = [
     excerpt: "A comprehensive comparison of cost, comfort, and aesthetics to help you choose the best treatment path for your smile.",
     category: "Treatment",
     date: "Sep 15, 2023",
-    image: "components/Public/Images/Smile_Avenue_Clinic_Blog-01-scaled.webp"
+    image: "/images/aligners_vs_braces.jpg"
   },
   {
     id: '4',

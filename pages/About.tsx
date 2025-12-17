@@ -83,7 +83,7 @@ export const About: React.FC = () => {
         <div className="container mx-auto px-4 md:px-8 flex flex-col md:flex-row gap-16 items-center">
            <div className="md:w-1/2">
              <img 
-                src="components\Public\Images\dentistry-feature.jpg" 
+                src="/images/doctor_with_patient.jpg" 
                 alt="Doctor with patient" 
                 className="rounded-2xl shadow-lg w-full" 
              />
